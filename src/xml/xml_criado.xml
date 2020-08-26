@@ -1,0 +1,14 @@
+<list>
+  <aluno>
+    <nome>Rafael</nome>
+    <idade>24</idade>
+  </aluno>
+  <aluno>
+    <nome>Jullyana</nome>
+    <idade>21</idade>
+  </aluno>
+  <aluno>
+    <nome>Rodrigo</nome>
+    <idade>20</idade>
+  </aluno>
+</list>
